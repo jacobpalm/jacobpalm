@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a Danish IT-professional with an interest in retro computing and development. Professionally, I work with as an IT consultant/technician with focus on IT infrastructure, security and advisory, in both cloud and on-premises environments.
+
+Outside of work, since the late 1990s, I have been fascinated by the simplicity of older computers, and the challenges involved in developing software that can run on the limited resources provided by them. Besides developing on these older computers, I sometimes collect and restore them - always curious about the inner workings and design. This hobby has taken me as far back as the ZX Spectrum, with the Amiga and countless DOS and Windows-based computers and Macs bridging the gap all the way up to modern systems.
 
 <!--
 **jacobpalm/jacobpalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
